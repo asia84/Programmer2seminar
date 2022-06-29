@@ -9,7 +9,7 @@ int randomNumber = new Random().Next(100,999);//определяет рандо�
 Console.WriteLine(randomNumber);              //--/---/
 
 int number1 = randomNumber / 100;
-int number2 = (randomNumber % 100)/10;
+int number2 = (randomNumber % 100)/10;//по идее эта строка не важна и в этой задаче ее не надо писать.нет необходимости.
 int number3 =  randomNumber % 10;
 
 

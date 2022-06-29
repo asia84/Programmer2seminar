@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.2\task11\bin\Debug\net6.0\task11.exe
+E:\Программирование\Прогр.сем.2\task11\bin\Debug\net6.0\task11.deps.json
+E:\Программирование\Прогр.сем.2\task11\bin\Debug\net6.0\task11.runtimeconfig.json
+E:\Программирование\Прогр.сем.2\task11\bin\Debug\net6.0\task11.dll
+E:\Программирование\Прогр.сем.2\task11\bin\Debug\net6.0\task11.pdb
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.dll
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\refint\task11.dll
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.pdb
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\task11.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.2\task11\obj\Debug\net6.0\ref\task11.dll

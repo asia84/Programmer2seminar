@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.2\task14.1\bin\Debug\net6.0\task14.1.exe
+E:\Программирование\Прогр.сем.2\task14.1\bin\Debug\net6.0\task14.1.deps.json
+E:\Программирование\Прогр.сем.2\task14.1\bin\Debug\net6.0\task14.1.runtimeconfig.json
+E:\Программирование\Прогр.сем.2\task14.1\bin\Debug\net6.0\task14.1.dll
+E:\Программирование\Прогр.сем.2\task14.1\bin\Debug\net6.0\task14.1.pdb
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.dll
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\refint\task14.1.dll
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.pdb
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\task14.1.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.2\task14.1\obj\Debug\net6.0\ref\task14.1.dll

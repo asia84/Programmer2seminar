@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\bin\Debug\net6.0\task11.1-преподаватель.exe
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\bin\Debug\net6.0\task11.1-преподаватель.deps.json
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\bin\Debug\net6.0\task11.1-преподаватель.runtimeconfig.json
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\bin\Debug\net6.0\task11.1-преподаватель.dll
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\bin\Debug\net6.0\task11.1-преподаватель.pdb
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.dll
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\refint\task11.1-преподаватель.dll
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.pdb
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\task11.1-преподаватель.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.2\task11.1-преподаватель\obj\Debug\net6.0\ref\task11.1-преподаватель.dll
